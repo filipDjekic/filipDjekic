@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Filip (Ćofi) 👋</h1>
+<h1 align="center">Hi, I'm Filip (Ćofi)</h1>
 
 ---
 
-### 🧑‍💻 About me
+### About me
 - Software Engineering student (4th year)
 
 ---
 
-### 🧰 Tech I use most
+### Tech I use most
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat" />
@@ -20,13 +20,4 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
-</p>
-
----
-
-### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipDjekic&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=filipDjekic" alt="GitHub Streak" />
 </p>
