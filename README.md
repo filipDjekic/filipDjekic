@@ -1,14 +1,5 @@
 <h1 align="center">Hi, I'm Filip (Ćofi) 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/filipDjekic?tab=followers">
-    <img src="https://img.shields.io/github/followers/filipDjekic?label=Follow&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/filipDjekic">
-    <img src="https://komarev.com/ghpvc/?username=filipDjekic&style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About me
