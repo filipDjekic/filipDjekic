@@ -1,23 +1,54 @@
-<h1 align="center">Hi, I'm Filip (Ćofi)</h1>
+<h1 align="center">Filip Đekić</h1>
 
----
-
-### About me
-- Software Engineering student (4th year)
-
----
-
-### Tech I use most
-<p>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=flat" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
+<p align="center">
+Backend & Full-Stack Development
 </p>
+
+---
+
+## Tech Stack
+
+### Backend
+Java • Spring Boot • ASP.NET Core • Node.js
+
+### Frontend
+React • Angular • TypeScript • JavaScript
+
+### Databases
+MySQL • MongoDB • MS SQL Server
+
+### Tools
+Git • Docker • Spring Cloud • Spring Security
+
+---
+
+## Featured Projects
+
+### Logistic System
+Full-stack logistics management system built using React, Spring Boot and MS SQL Server.
+
+https://github.com/filipDjekic/logistic-system
+
+---
+
+### Booking Microservice System
+Microservice-based reservation system using Spring Cloud, Eureka, OpenFeign and Resilience4j.
+
+https://github.com/filipDjekic/booking-micro
+
+---
+
+### Tourism Agency Management System
+Desktop application for managing reservations and tourism packages using .NET and Entity Framework Core.
+
+https://github.com/filipDjekic/tourismAgency
+
+---
+
+## Contact
+
+Email:
+e14filipdjekic@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/filip-%C4%91eki%C4%87-34b6153a6/
