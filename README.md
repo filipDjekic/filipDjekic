@@ -18,7 +18,7 @@ React • Angular • TypeScript • JavaScript
 MySQL • MongoDB • MS SQL Server
 
 ### Tools
-Git • Docker • Spring Cloud • Spring Security
+Git • Docker
 
 ---
 
